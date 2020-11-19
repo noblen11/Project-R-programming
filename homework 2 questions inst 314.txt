@@ -1,0 +1,41 @@
+1) What is the size of the dataset? (how many datapoints do we have?)
+
+2) What is the mean of this column?
+
+3) What is the standard deviation?
+
+4) What is the maximum value?
+
+5) What is the minimum value?
+
+ 
+
+Calculate the standard scores (also called z-scores) of this column and find:
+
+6) What is the z-score of the largest value?
+
+7) What is the z-score of the smallest value?
+
+ 
+
+Now we investigate the distribution:
+
+8) How many datapoints are within one standard deviation away from the mean? (that is, how many datapoints are less than mean + sd and greater than mean - sd?
+
+9) What proportion of the datapoints are within one standard deviation away from the mean?
+
+10) What proportion of the datapoints are within two standard deviations away from the mean?
+
+ 
+
+ 
+
+ 
+
+Now let's work on the "Humidity(%)" column:
+
+ 
+
+11) What proportion of the datapoints are within one standard deviation away from the mean?
+
+12) What proportion of the datapoints are within two standard deviations away from the mean?
